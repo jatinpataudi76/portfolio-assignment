@@ -134,33 +134,11 @@ html{
 }
 .back-to-top{
     position:fixed;
-    bottom:20px; 
-    right: 20px;
-    background-color: #333;
-    color: white;
-    padding: 10px 15px;
-    text-decoration: none;
-    border-radius: 8px;
-    font-size: 16px;
-    font-weight: bold;
-}
-.back-to-top{background-color:#0f6fec;
-position: fixed;
-bottom: 30px;
-right: 30px;
-background: linear-gradient(135deg,#ff416c,#ff4b2b);
-color: white;     
-text-decoration: none;
-font-size: 24px;
-padding: 15px 18px;
-border-radius: 50%;
-box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-transition: all 0.3s ease;
-}
-.back-to-top:hover{transform: scale(1.2)rotate(10deg);
-background: linear-gradient(135deg,#ff4b2b,#ff416c);
-box-shadow: 0 8px 20px rgba(0,0,0,0.5);
-}
-.back-to-top:active{background: linear-gradient(135deg,#00c6ff,#0072ff);
-transform: scale(0.95);
-}
+    bottom:30px;
+    right:30px;
+    background-color:blue;
+    color:white;
+    text-decoration:none;
+    font-size:18px;
+    padding:12px 22px;
+    border-radius:8px;}
